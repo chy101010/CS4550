@@ -8,7 +8,7 @@ Ningyu Chen
 Vultr & NameCheap
 
 3. What domain name did you register?
-Citronk.com
+citronk.com
 
 4. What's the URL of your Github repository for this assignment?
 https://github.com/chy101010/CS4550.git
